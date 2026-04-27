@@ -1,6 +1,6 @@
 {
-  "id": "1",
+  "id": "2",
   "action": "broadcast",
-  "message": "Halo ini pesan global dari GitHub!",
+  "message": "Halo ini pesan globa!",
   "timestamp": 1714180000000
 }
